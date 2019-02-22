@@ -1,0 +1,29 @@
+body {
+    background-color: goldenrod
+}
+h3 {
+    color: white;
+    font-family: 'Dosis', cursive;
+    font-size: 35px;
+    text-align: center;
+    margin: 40px;
+}
+h4 {
+    color: white;
+    font-family: 'Dosis', cursive;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 40px;
+}
+p {    
+    color:white;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;    
+}
+#fotocontainer {
+    margin: 40px
+}
+img {
+    border-radius: 40px;
+    width: 100%
+  }
