@@ -1,7 +1,9 @@
-document.addEventListener("load", () => {
-    document.querySelector("#bottom").scrollIntoView()
+//   werkt niet dus met css 'opgelost'
+//     document.addEventListener("load", () => {
+//     document.querySelector("#bottom").scrollIntoView()
+//     window.scrollTo(0,document.body.scrollHeight)
   
-  })
+//   })
   
   fetch('https://apifriendshipquotes.herokuapp.com/quotes')    // verwijzen naar de url!!!
     .then(response => response.json())    // er een json object van maken
